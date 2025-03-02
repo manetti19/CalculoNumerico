@@ -1,1 +1,1 @@
-# CalculoNumerico
+# Estudo de Cálculo Numérico
