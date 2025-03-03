@@ -1,1 +1,1 @@
-# Estudo de Cálculo Numérico
+# Estudo de Cálculo Numérico do 2° ano de IME
